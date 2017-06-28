@@ -1,2 +1,6 @@
 This is a first line of text
+<<<<<<< HEAD
 changes done by codebreak123 
+=======
+This is 2nd line of text
+>>>>>>> 0e42fe04f600f51f49291124a43226a0c6a82af0
